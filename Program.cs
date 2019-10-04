@@ -31,6 +31,10 @@ namespace OOPD_Week_2
         {
             Console.WriteLine("I am a Child");
         }
+        public void SayGoodbye()
+        {
+            Console.WriteLine("Bye");
+        }
     }
     class Program
     {
